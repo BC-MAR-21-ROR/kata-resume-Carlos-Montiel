@@ -27,13 +27,16 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Competent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
+    - item: Approachability
+      link: # dejar en blanco
+      
     - item: Communication
       link: # dejar en blanco
 
@@ -43,11 +46,20 @@ sidebar:
     - item: Time Management
       link: # dejar en blanco
 
+    - item: Adaptability
+      link: # dejar en blanco
+
+    - item: Problem-Solving
+      link: # dejar en blanco
+
+    - item: Empathy
+      link: # dejar en blanco
+
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I am a Computer Systems Engineer. I enjoy solving other people problems by coding solutions, I like working with a team to achieve better results, I am interested and I have some experience in web software development. I also like music a lot. I am an autodidact learner, I like always to learn new stuff and share what I know. Currently, I am looking to improve my knowledge to apply it to what I do.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
