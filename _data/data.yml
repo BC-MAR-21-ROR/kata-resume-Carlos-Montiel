@@ -15,11 +15,11 @@ sidebar:
   email: carlosm02635@gmail.com
   phone: 7717295448
   website: # No agregar http://
-  linkedin: brightcoders
+  linkedin: CarlosMontiel02635
   github: Carlos-Montiel
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@carlosm2635'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -65,9 +65,9 @@ career-profile:
 educationcomplete:
   - degree: Applied Ruby on Rails Web Developer
     university: Bright Coders Academy
-    time: 2021 Mar - current
+    time: 2021 March - current
     details: |
-      Cerfification program to enhance habilities by team work and mentoring.
+      Certification program to enhance habilities by team work and mentoring.
 
   - degree: IT Engineer
     university: UTSH (Hidalgo, México)
@@ -135,6 +135,9 @@ skills:
       level: 40%
  
     - name: LINUX
+      level: 60%
+      
+    - name: GIT
       level: 60%
       
 # NO MODIFICAR
