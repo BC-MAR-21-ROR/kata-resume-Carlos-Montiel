@@ -114,13 +114,13 @@ skills:
       level: 60%
 
     - name: JAVASCRIPT
-      level: 80%
+      level: 60%
 
     - name: Ruby
-      level: 60%
+      level: 40%
 
     - name: Ruby on Rails
-      level: 60%
+      level: 40%
 
     - name: PHP
       level: 40%
