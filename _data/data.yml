@@ -59,7 +59,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am a Computer Systems Engineer. I enjoy solving other people problems by coding solutions, I like working with a team to achieve better results, I am interested and I have some experience in web software development. I also like music a lot. I am an autodidact learner, I like always to learn new stuff and share what I know. Currently, I am looking to improve my knowledge to apply it to what I do.
+    I am a Computer Systems Engineer. I enjoy solving other people problems by coding solutions, I like working with a team to achieve better results, I am interested and I have some experience in web software development. I also like music a lot. I am an autodidact learner, I like always to learn new stuff and share what I know. I am always looking to improve my knowledge to apply it to what I do.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -114,7 +114,7 @@ skills:
       level: 80%
 
     - name: JAVASCRIPT
-      level: 70%
+      level: 80%
 
     - name: Ruby
       level: 80%
@@ -126,7 +126,7 @@ skills:
       level: 40%
 
     - name: MYSQL
-      level: 60%
+      level: 70%
       
     - name: ANGULAR
       level: 20%
@@ -138,6 +138,9 @@ skills:
       level: 60%
       
     - name: GIT
+      level: 70%
+      
+    - name: POSTGRESQL
       level: 70%
       
 # NO MODIFICAR
