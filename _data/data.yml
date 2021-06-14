@@ -63,9 +63,9 @@ career-profile:
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Ruby on Rails Web Developer
+  - degree: Ruby on Rails Web Developer
     university: Bright Coders Academy
-    time: 2021 March - current
+    time: March 2021 - June 2021
     details: |
       Certification program to enhance habilities by team work and mentoring.
 
@@ -111,16 +111,16 @@ skills:
       level: 100%
 
     - name: CSS
-      level: 60%
+      level: 80%
 
     - name: JAVASCRIPT
-      level: 60%
+      level: 70%
 
     - name: Ruby
-      level: 40%
+      level: 80%
 
     - name: Ruby on Rails
-      level: 40%
+      level: 80%
 
     - name: PHP
       level: 40%
@@ -132,13 +132,13 @@ skills:
       level: 20%
       
     - name: HEROKU
-      level: 40%
+      level: 50%
  
     - name: LINUX
       level: 60%
       
     - name: GIT
-      level: 60%
+      level: 70%
       
 # NO MODIFICAR
 footer: >
