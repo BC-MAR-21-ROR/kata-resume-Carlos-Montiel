@@ -67,7 +67,7 @@ educationcomplete:
     university: Bright Coders Academy
     time: March 2021 - June 2021
     details: |
-      Certification program to enhance habilities by team work and mentoring.
+      Certification program to enhance abilities by team work and mentoring.
 
   - degree: IT Engineer
     university: UTSH (Hidalgo, México)
@@ -89,7 +89,7 @@ experiences:
     details: |
       Developer or lead developer in some projects created to local companies, 
       utilization of technologies like RoR mainly and PHP, realization of system 
-      deployings to Heroku and some other servers, maintenance and support to final users.
+      deploys to Heroku and some other servers, maintenance and support to final users.
 
   - role: Ruby on Rails Web Developer (internship)
     time: 2016 March - 2016 July
